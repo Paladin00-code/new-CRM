@@ -42,12 +42,11 @@
                 <select>
                   <option>Category</option>
                 </select>
-                <label>Выберите категорию</label>
               </div>
 
               <div class="input-field">
-                <input type="text" id="name" />
-                <label for="name">Название</label>
+                <input id="name" type="text" />
+                <label for="name">Выберите категорию</label>
                 <span class="helper-text invalid">TITLE</span>
               </div>
 
